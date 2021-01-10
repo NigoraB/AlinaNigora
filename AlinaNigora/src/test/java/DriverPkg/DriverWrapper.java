@@ -17,8 +17,8 @@ import java.util.concurrent.TimeUnit;
 public class DriverWrapper {
 
     private static WebDriver driver;
-    String USERNAME = "alina2020";
-    String ACCESS_KEY = "76271725-50d8-498d-9246-764f6633a369";
+    String USERNAME = "nigorabowles";
+    String ACCESS_KEY = "e32aab0c2ea547bb9caa2d61c2dad879";
     String SAUCE_URL = "https://" + USERNAME + ":"+ ACCESS_KEY +"@ondemand.us-west-1.saucelabs.com:443/wd/hub";
 
 
